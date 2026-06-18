@@ -105,7 +105,7 @@ Este notebook es la **prueba de concepto del motor analítico** de un producto S
 ## 🗂️ Estructura del repositorio
 
 ```
-dynamic_pricing_project/
+motor-inteligente-de-precios/
 ├── monitor_precios_competencia.ipynb   # Notebook principal (Google Colab)
 ├── requirements.txt                     # Dependencias
 ├── data/
